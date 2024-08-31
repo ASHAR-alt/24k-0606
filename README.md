@@ -1,22 +1,5 @@
 USING GITHUB FOR FIRST TIME AND CREATING A REPOSITORY FOR THE FIRST TIME
-#ALGORITHM
-EXAMPLE:
-1 START
-2 Ask the user to enter RADIUS
-3 Set CIRCUMFERENCE to (2*3.142*RADIUS)
-4 Display CIRCUMFERENCE for the user
-5 END
-#PSEUDOCODE
-EXAMPLE:
-1 START
-2
-3 INPUT number
-4
-5 IF number &gt; 0 THEN
-6 PRINT “The Number is Positive”
-7 ELSE IF number &lt; 0 THEN
-8 PRINT “The Number is Negative”
-9 ELSE
-10 PRINT “The Number is Equal to Zero”
-11
-12 END
+#IMPORTANT MESSAGE
+PLEASE SUBMIT YOUR WORK ON TIME AND READ INSTRUCTIONS CAREFULLY
+##documents
+attach your cnic with your transport card
